@@ -19,3 +19,4 @@
 本模块基于 Greek Date Module for Joomla 1.5.x, version 3.0.0 修改,更多可定制性，更适合国内网站使用！
  
 后台参数预览：
+http://joomlabox.cn/images/stories/extensions/date_and_time_params.png
