@@ -1,0 +1,21 @@
+# •模块名称：日期与时间 #
+## •模块版本：v1.0.0 ##
+> •模块适用程序：joomla 1.5.x
+> •模块开发：野草工作室
+> •版权声明：GNU/GPL
+> •语言版本：简体中文，繁体中文，英文
+> •演示地址：Demo
+
+"日期与时间"模块系由野草工作室开发的，适合国内站长使用的joomla模块。此可以在网站显示当前的日期、时间，或者选择是否显示日期描述、时间描述。
+
+你通过在你的使用模板的CSS文件中，添加以下样式以获得更多的外观元素：
+> #### •#ycdate{模块的div样式} ####
+> #### •#ycdate span.ycdate\_desc{日期描述样式} ####
+> #### •#ycdate span.ycdate\_date{日期样式} ####
+> #### •#ycdate span.yctime\_desc{时间描述样式} ####
+> #### •#ycdate span.ycdate\_date{时间样式} ####
+
+本模块基于 Greek Date Module for Joomla 1.5.x, version 3.0.0 修改,更多可定制性，更适合国内网站使用！
+
+后台参数预览：
+![http://joomlabox.cn/images/stories/extensions/date_and_time_params.png](http://joomlabox.cn/images/stories/extensions/date_and_time_params.png)
